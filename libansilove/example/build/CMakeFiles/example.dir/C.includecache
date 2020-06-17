@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/study/libansilove/libansilove/example/example.c
+ansilove.h
+-
+stdio.h
+-
+
+/usr/local/include/ansilove.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+

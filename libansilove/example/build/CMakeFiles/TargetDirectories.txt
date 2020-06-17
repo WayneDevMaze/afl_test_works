@@ -1,0 +1,3 @@
+/root/study/libansilove/libansilove/example/build/CMakeFiles/rebuild_cache.dir
+/root/study/libansilove/libansilove/example/build/CMakeFiles/example.dir
+/root/study/libansilove/libansilove/example/build/CMakeFiles/edit_cache.dir

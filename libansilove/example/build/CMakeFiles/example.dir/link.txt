@@ -1,0 +1,1 @@
+afl-gcc   -rdynamic CMakeFiles/example.dir/example.c.o  -o example -Wl,-rpath,/usr/local/lib /usr/local/lib/libansilove.so 
