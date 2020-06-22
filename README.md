@@ -8,3 +8,6 @@
 
 # libspng
 第二个将要测试的库，我太菜了/(ㄒoㄒ)/~~
+
+# ffjpeg
+对-d和-e模式进行fuzz，然后-d没有发现新的crash，都是之前有人已经报过的issue
