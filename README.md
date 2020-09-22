@@ -8,6 +8,11 @@
 
 # libspng
 第二个将要测试的库，我太菜了/(ㄒoㄒ)/~~
+确实菜嗷，什么都没跑出来！！！
 
 # ffjpeg
 对-d和-e模式进行fuzz，然后-d没有发现新的crash，都是之前有人已经报过的issue
+emmm，报了一个cnvd
+
+# ok-file-formats
+报了两个cnvd，Asanjpg里面有可执行文件和poc，然后另外两个文件夹是afl-plots的输出结果
