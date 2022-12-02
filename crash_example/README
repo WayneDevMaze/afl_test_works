@@ -1,0 +1,8 @@
+./src: source file, changed from example dir
+./bin: compiled
+./image: poc bmp file which can make crash
+./crash_info: output of crash
+
+java -cp bin/classes/ Test image/crash1.bmp
+
+Ubuntu, Java8

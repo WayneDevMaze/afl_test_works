@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 12
+	at net.sf.image4j.codec.bmp.BMPEncoder.write4(BMPEncoder.java:365)
+	at net.sf.image4j.codec.bmp.BMPEncoder.write(BMPEncoder.java:132)
+	at net.sf.image4j.codec.bmp.BMPEncoder.write(BMPEncoder.java:39)
+	at Test.main(Test.java:13)
