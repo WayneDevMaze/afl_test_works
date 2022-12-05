@@ -16,3 +16,6 @@ emmm，报了一个cnvd
 
 # ok-file-formats
 报了两个cnvd，Asanjpg里面有可执行文件和poc，然后另外两个文件夹是afl-plots的输出结果
+
+# image4j
+最近开始搞Java的Fuzz，刚好拿这个库作为验证，发现了一个数组越界，已经提交issue，https://github.com/imcdonagh/image4j/issues/11
